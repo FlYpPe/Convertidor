@@ -1,0 +1,16 @@
+<resources>
+
+
+    <string name="app_name">Convertidor</string>
+    <string name="lbl_tempIn">Ingresa una temperatura:</string>
+    <string name="lbl_tem">ingresa:</string>
+    <string name="res">Resultado</string>
+    <string name="lbl_temp">para convertir a:</string>
+    <string-array name="Sistemas">
+        <item>Celsius</item>
+        <item>Farenheit</item>
+        <item>Kelvin</item>
+        <item>Calvin</item>
+    </string-array>
+
+</resources>
